@@ -1,0 +1,15 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.4.0)
+
+newmtl SFX
+Kd 1.00392163 1.00392163 1.00392163
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ni 1
+Ns 20
+illum 2
+map_Kd C:/\DT-SE\IMAGES\SFX342_L.jpg
+bump C:/\DT-SE\IMAGES\SFX342_B.jpg
+map_bump C:/\DT-SE\IMAGES\SFX342_B.jpg
+
